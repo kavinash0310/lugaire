@@ -1,4 +1,4 @@
-# Lugaire — Fashion Storefront and Editorial Site
+# Lugaire
 
 A Next.js and React storefront concept for Lugaire. The site pairs an editorial fashion presentation with product and brand-information pages, account screens, and responsive navigation.
 
